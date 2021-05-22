@@ -1,4 +1,4 @@
-# BusReservationSystem
+## BusReservationSystem
 
 PROJECT DESCRIPTION :
 
@@ -8,7 +8,7 @@ PROJECT DESCRIPTION :
   
   -->   Also they can check the status of their seats .You can explore many more features while exploring this project.
 
-  -->   For the owner point of view, he will get the file named  “Reservation.txt” in his local computer which contains all the data for  particular bus no. All the data is saved         in the file named according to the bus no.
+  -->   For the owner point of view, he will get the file named  “Reservation.txt” in his local computer which contains all the data for  particular bus no. All the data is saved   in the file named according to the bus no.
 
   -->   I have used various concepts of data structures like file handling , efficient  array utilization ,etc. 
 
@@ -19,8 +19,18 @@ PROJECT DESCRIPTION :
 I experienced myself very bold, happy and innovative while working on this project.
 I think and hope , All the users would like this system ! shouldn’t it ?
 
-
-HOW TO RUN THE  PROJECT :
-    STEP 1 : COPY THE PROJECT REPOSITORY ON YOUR LOCAL SYSTEM USING **iigjfkll
 Thanks and Regards !
 -- Narayan 
+
+### HOW TO RUN THE  PROJECT :
+
+    STEP 1 : CLONE THE PROJECT REPOSITORY USING COMMAND : git clone https://github.com/Naaru-01/BusReservationSystem
+    STEP 2 : RUN BRS.CPP FILE IF YOU'RE NOT USING WINDOWS OPERATING SYSTEM 
+    STEP 3 : OR YOU CAN DIRECT RUN BRC.EXE FILE FOR WINDOWS SYSTEM 
+    STEP 4 : ENJOY THE FEATURES OF THE SYSTEM 
+    
+    
+### fOLLOWING ARE SOME ADORABLE SNIPS OF THE RUNNING PROJECT  :
+
+![image](https://user-images.githubusercontent.com/68388179/119213259-6cbf1b80-badb-11eb-971d-e3b7a4b9d62e.png)
+
