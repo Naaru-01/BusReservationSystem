@@ -19,8 +19,12 @@
 I experienced myself very bold, happy and innovative while working on this project.
 I think and hope , All the users would like this system ! shouldn’t it ?
 
-Thanks and Regards !
--- Narayan 
+>Thanks and Regards !
+>-- Narayan 
+
+
+
+
 
 >## HOW TO RUN THE  PROJECT :
 
@@ -33,9 +37,11 @@ Thanks and Regards !
     STEP 4 : ENJOY THE FEATURES OF THE SYSTEM 
     
     
+    
+    
 >## FOLLOWING ARE SOME ADORABLE SNIPS OF THE EXISTING PROJECT  :
 
-![image](https://user-images.githubusercontent.com/68388179/119213259-6cbf1b80-badb-11eb-971d-e3b7a4b9d62e.png)
+                    ![image](https://user-images.githubusercontent.com/68388179/119213259-6cbf1b80-badb-11eb-971d-e3b7a4b9d62e.png)
 **IMAGE 1 : STARTING WINDOW** 
 
 
