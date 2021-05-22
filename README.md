@@ -20,7 +20,7 @@ I experienced myself very bold, happy and innovative while working on this proje
 I think and hope , All the users would like this system ! shouldn’t it ?
 
 
-
-#how to run the project:
+HOW TO RUN THE  PROJECT :
+    STEP 1 : COPY THE PROJECT REPOSITORY ON YOUR LOCAL SYSTEM USING **iigjfkll
 Thanks and Regards !
 -- Narayan 
