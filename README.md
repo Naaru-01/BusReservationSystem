@@ -2,7 +2,7 @@
 
 >## PROJECT DESCRIPTION :
 
-    Hey ! What’s up my ! My Name’s Narayan, I am really found myself proud to present this project .
+    Hey ! What’s up ! My Name’s Narayan, I am really found myself proud to present this project .
 
   **-->**  Through this project I aimed to develop a reservation system  especially for the travelling buses on road through which we can book the  ticket for a particular traveller.
   
